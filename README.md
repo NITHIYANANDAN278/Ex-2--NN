@@ -1,4 +1,4 @@
-<H3>Name:NITHIYANANDAN N </H3> 
+<H3>Name: Nithiyanandan N </H3> 
 <H3>Register no:212222230099</H3>
 <H3>Date:30.03.24</H3>
 <H3>Experiment No. 2 </H3>
@@ -22,15 +22,8 @@ If we represent samples as vectors of size n, where ‘n’ is the number of its
 f(x)=w.x+b
  <BR>
 A threshold function, usually Heaviside or sign functions, maps the scalar value to a binary output:
-
- 
-
-
 <img width="283" alt="image" src="https://github.com/Lavanyajoyce/Ex-2--NN/assets/112920679/c6d2bd42-3ec1-42c1-8662-899fa450f483">
-
-
 Indeed if the neuron output is exactly zero it cannot be assumed that the sample belongs to the first sample since it lies on the boundary between the two classes. Nonetheless for the sake of simplicity,ignore this situation.<BR>
-
 
 # ALGORITHM:
 STEP 1: Importing the libraries<BR>
@@ -133,6 +126,9 @@ plt.show()
 ![image](https://github.com/NITHIYANANDAN278/Ex-2--NN/assets/121784636/3fce6c26-41fa-4374-b318-d01355cb9743)
 
 ![image](https://github.com/NITHIYANANDAN278/Ex-2--NN/assets/121784636/17b69cc3-35d1-431a-ae23-341845afcf88)
+
+![image](https://github.com/NITHIYANANDAN278/Ex-2--NN/assets/121784636/0a70acee-c648-48a6-989c-b94c26205dc3)
+
 
 ![image](https://github.com/NITHIYANANDAN278/Ex-2--NN/assets/121784636/8da8b59b-2287-4c5b-a704-58b374151eb2)
 
